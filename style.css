@@ -25,4 +25,8 @@ color: gold;
         flex-direction: column;
         width: auto;
     }
+
+    .mobile{
+        flex-direction: column;
+    }
 }
