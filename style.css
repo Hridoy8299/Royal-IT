@@ -29,4 +29,8 @@ color: gold;
     .mobile{
         flex-direction: column;
     }
+
+    .tablet{
+        width: 100%;
+    }
 }
