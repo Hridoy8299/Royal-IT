@@ -21,4 +21,8 @@ color: gold;
         display: none;
     }
     
+    .directio{
+        flex-direction: column;
+        width: auto;
+    }
 }
