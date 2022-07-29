@@ -8,3 +8,14 @@ color: gold;
 .s-icon{
     color: beige;
 }
+
+@media only screen and (max-width: 600px) {
+
+    #full-size{ 
+        width: 100%;
+    } 
+
+    body{
+        width:auto;
+    }
+}
